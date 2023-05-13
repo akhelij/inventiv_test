@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\CalculatorController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,6 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/calculator', function () {
-    return view('calculator');
-});
+Route::get('/calculator', [CalculatorController::class, 'index'])->name('calculator');

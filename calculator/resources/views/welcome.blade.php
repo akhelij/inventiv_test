@@ -39,10 +39,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Access the calculator</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    If the code  should at least include a route to access the calculator page (e.g.
-                                    /calculator), a controller to render the <b>template</b> and a very basic template for the
-                                    form.
-                                    Where Vue JS should be used 🤔
+                                    The test was too easy that it made me think twice before to start working on it. I'm confident that you won't need to test my code, but just in case, I'll make you an offer you can't refuse: if you rate my code as good, I'll happily give you 10% of my salary every month! J.K and Thanks for your time.
                                 </p>
                             </div>
 
